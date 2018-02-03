@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi, Humans!
+
+This code is my first one. It's just test.
